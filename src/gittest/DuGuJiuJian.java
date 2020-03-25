@@ -7,5 +7,6 @@ public class DuGuJiuJian
 		System.out.print("www");
 		System.out.print("rrrrr");
 		System.out.print("uuuuuuu");
+		
 	}
 }
