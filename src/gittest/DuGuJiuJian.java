@@ -6,5 +6,6 @@ public class DuGuJiuJian
 		System.out.print("LLLLLL");
 		System.out.print("www");
 		System.out.print("rrrrr");
+		//zhushi
 	}
 }
